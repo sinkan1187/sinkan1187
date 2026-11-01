@@ -1,7 +1,7 @@
 ## sinkan1187
 学習中の半端者です,
 ## Related Organizations
-- 個人用開発Organizations(https://github.com/Sinkan1187-Spaces)
+- [個人用開発Organizations](https://github.com/Sinkan1187-Spaces)
 
 <!--
 **sinkan1187/sinkan1187** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
